@@ -1,0 +1,15 @@
+.idea
+.mvn
+logs
+dolphinscheduler-ui/node
+dolphinscheduler-ui/node_modules
+dolphinscheduler-ui/target
+dolphinscheduler-alert/target
+dolphinscheduler-api/target
+dolphinscheduler-common/target
+dolphinscheduler-dao/target
+dolphinscheduler-dist/target
+dolphinscheduler-plugin-api/target
+dolphinscheduler-remote/target
+dolphinscheduler-server/target
+dolphinscheduler-service/target
