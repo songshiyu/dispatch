@@ -466,8 +466,8 @@
 <style lang="scss" rel="stylesheet/scss">
   .nav-model {
     height: 60px;
-    background: #2D303A;
-    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    background: #000000;
+    box-shadow: 0 3px 5px rgba(82, 225, 180, 0.3);
     position: relative;
     .m-title-box {
       text-align: center;
@@ -488,7 +488,7 @@
         width: 180px;
         height: 46px;
         display: block;
-        background: url("./logo.svg") no-repeat;
+        background: url("./log.jpg") no-repeat;
       }
     }
     .nav-box {

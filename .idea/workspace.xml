@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53db28dc-eb39-45c4-b9c0-81da972f2117" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dolphinscheduler-ui/node/node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dolphinscheduler-ui/node/npm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dolphinscheduler-ui/node/npm.cmd" afterDir="false" />
+    <list default="true" id="53db28dc-eb39-45c4-b9c0-81da972f2117" name="Default" comment="修改配置文件">
+      <change afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/conf/login/img/wuhua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/module/components/nav/log.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-alert/dolphinscheduler-alert.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-api/dolphinscheduler-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-common/dolphinscheduler-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-dao/dolphinscheduler-dao.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dolphinscheduler-dao/src/main/resources/datasource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-dao/src/main/resources/datasource.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-dist/dolphinscheduler-dist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-plugin-api/dolphinscheduler-plugin-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-remote/dolphinscheduler-remote.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-server/dolphinscheduler-server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-service/dolphinscheduler-service.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dolphinscheduler-service/src/main/resources/zookeeper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-service/src/main/resources/zookeeper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/dolphinscheduler-ui.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/skywalking/dolphinscheduler-skywalking.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/conf/home/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/conf/home/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/conf/login/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/conf/login/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/module/components/nav/nav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/module/components/nav/nav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/module/components/secondaryMenu/secondaryMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/js/module/components/secondaryMenu/secondaryMenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/sass/conf/login/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/sass/conf/login/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/view/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/view/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dolphinscheduler-ui/src/view/login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dolphinscheduler-ui/src/view/login/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +55,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dolphinscheduler-ui/src/js/module/components/nav" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dolphinscheduler-ui/src/js/module/components/nav" />
+      <recent name="$PROJECT_DIR$/dolphinscheduler-ui/src/js/conf/login/img" />
+      <recent name="$PROJECT_DIR$/dolphinscheduler-ui/src/images" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ApiApplicationServer">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -191,8 +195,25 @@
       <updated>1621164734758</updated>
       <workItem from="1621164746633" duration="2275000" />
       <workItem from="1621210246661" duration="1532000" />
-      <workItem from="1621237071511" duration="3446000" />
+      <workItem from="1621237071511" duration="3911000" />
+      <workItem from="1621245571886" duration="4774000" />
+      <workItem from="1621857634993" duration="7548000" />
     </task>
+    <task id="LOCAL-00001" summary="修改配置文件">
+      <created>1621245169218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621245169218</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改配置文件">
+      <created>1621245272775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621245272775</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,8 +236,14 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="修改配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置文件" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="95" key="#ESLint" timestamp="1621245815739">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="95" key="#ESLint/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245815739" />
     <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621239799915">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
@@ -225,50 +252,66 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="570" y="325" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239356059" />
-    <state x="215" y="30" key="CommitChangelistDialog2" timestamp="1621245168316">
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621862967502">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="215" y="30" key="CommitChangelistDialog2/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245168316" />
-    <state width="1396" height="282" key="GridCell.Tab.0.bottom" timestamp="1621239816635">
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.813@0.23.1440.813" timestamp="1621862967502" />
+    <state x="215" y="30" key="CommitChangelistDialog2" timestamp="1621245271814">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239816635" />
-    <state width="1396" height="282" key="GridCell.Tab.0.center" timestamp="1621239816634">
+    <state x="215" y="30" key="CommitChangelistDialog2/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245271814" />
+    <state width="1396" height="317" key="GridCell.Tab.0.bottom" timestamp="1621858180899">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.0.center/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239816634" />
-    <state width="1396" height="282" key="GridCell.Tab.0.left" timestamp="1621239816634">
+    <state width="1396" height="282" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547867" />
+    <state width="1396" height="317" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1621858180899" />
+    <state width="1396" height="317" key="GridCell.Tab.0.center" timestamp="1621858180899">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.0.left/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239816634" />
-    <state width="1396" height="282" key="GridCell.Tab.0.right" timestamp="1621239816635">
+    <state width="1396" height="282" key="GridCell.Tab.0.center/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547867" />
+    <state width="1396" height="317" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1621858180899" />
+    <state width="1396" height="317" key="GridCell.Tab.0.left" timestamp="1621858180898">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.0.right/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239816635" />
-    <state width="1396" height="282" key="GridCell.Tab.1.bottom" timestamp="1621239812699">
+    <state width="1396" height="282" key="GridCell.Tab.0.left/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547866" />
+    <state width="1396" height="317" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1621858180898" />
+    <state width="1396" height="317" key="GridCell.Tab.0.right" timestamp="1621858180899">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.1.bottom/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239812699" />
-    <state width="1396" height="282" key="GridCell.Tab.1.center" timestamp="1621239812697">
+    <state width="1396" height="282" key="GridCell.Tab.0.right/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547867" />
+    <state width="1396" height="317" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1621858180899" />
+    <state width="1396" height="317" key="GridCell.Tab.1.bottom" timestamp="1621858180913">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.1.center/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239812697" />
-    <state width="1396" height="282" key="GridCell.Tab.1.left" timestamp="1621239812696">
+    <state width="1396" height="282" key="GridCell.Tab.1.bottom/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547869" />
+    <state width="1396" height="317" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1621858180913" />
+    <state width="1396" height="317" key="GridCell.Tab.1.center" timestamp="1621858180903">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.1.left/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239812696" />
-    <state width="1396" height="282" key="GridCell.Tab.1.right" timestamp="1621239812698">
+    <state width="1396" height="282" key="GridCell.Tab.1.center/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547868" />
+    <state width="1396" height="317" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1621858180903" />
+    <state width="1396" height="317" key="GridCell.Tab.1.left" timestamp="1621858180900">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1396" height="282" key="GridCell.Tab.1.right/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621239812698" />
+    <state width="1396" height="282" key="GridCell.Tab.1.left/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547868" />
+    <state width="1396" height="317" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1621858180900" />
+    <state width="1396" height="317" key="GridCell.Tab.1.right" timestamp="1621858180912">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1396" height="282" key="GridCell.Tab.1.right/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245547869" />
+    <state width="1396" height="317" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1621858180912" />
     <state x="229" y="68" key="SettingsEditor" timestamp="1621211336860">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="229" y="68" key="SettingsEditor/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621211336860" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1621245175203">
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1621245280220">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245175203" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.813/1440.-62.1920.1057@0.23.1440.813" timestamp="1621245280220" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1621864521184">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1621864521184" />
   </component>
   <component name="masterDetails">
     <states>
