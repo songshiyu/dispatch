@@ -111,7 +111,7 @@
     left: 0;
     top: 0;
     width: 200px;
-    background: #41444C;
+    background: #000000;
     height: calc(100%);
     padding-top: 80px;
     .toogle-box {
